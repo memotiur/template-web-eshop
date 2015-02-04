@@ -1,5 +1,5 @@
 # eCommerce Shop
-<img src="https://raw.github.com/r4nd1/template-web-eshop-item/master/screenshot.jpg" width="900">
+<img src="https://raw.github.com/r4nd1/template-web-eshop/master/screenshot.jpg" width="900">
 
 ## Uploader
 * Name: Randy Riolis
